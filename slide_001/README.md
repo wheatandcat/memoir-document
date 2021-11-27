@@ -11,3 +11,9 @@ $ yarn dev
 ```zsh
 $ yarn slidev build
 ```
+
+## Export
+
+```zsh
+$ yarn slidev export --with-clicks
+```

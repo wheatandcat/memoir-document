@@ -424,7 +424,4 @@ class: "text-center"
   color: #46AE35;
 }
 </style>
----
-
-
 
