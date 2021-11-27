@@ -20,7 +20,7 @@ fonts:
 <div class="flex justify-center">
   <img
     class="w-60"
-    src="images/logo.svg"
+    src="/logo.svg"
   />
 </div>
 <br/>
@@ -44,7 +44,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
     <div class="rounded-full bg-white w-24 h-24 overflow-hidden border-2 border-black border-dotted border-opacity-20">
       <img
         class="w-40 pt-2"
-        src="images/account.png"
+        src="/account.png"
       />
     </div>
   </div>
@@ -76,11 +76,11 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 <img
   class="w-120 absolute top-35 right-40"
-  src="images/mock01.png"
+  src="/mock01.png"
 />
 <img
   class="w-120 absolute top-35 right-0"
-  src="images/mock02.png"
+  src="/mock02.png"
 />
 
 
@@ -96,7 +96,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
         <div class="rounded-full bg-white w-40 h-40 overflow-hidden border-2 border-black border-dotted border-opacity-20">
           <img
             class="w-40 pt-2"
-            src="images/account.png"
+            src="/account.png"
           />
         </div>
       </div>
@@ -110,7 +110,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
         <div class="rounded-full bg-white w-40 h-40 overflow-hidden border-2 border-black border-dotted border-opacity-20">
           <img
             class="w-40 pt-2"
-            src="images/mitsubisi.png"
+            src="/mitsubisi.png"
           />
         </div>
       </div>
@@ -160,7 +160,7 @@ clicks: 1
     <div>
       <img
         class="h-70 pt-2"
-        src="images/memo01.png"
+        src="/memo01.png"
       />
     </div>
   </div>
@@ -172,7 +172,7 @@ clicks: 1
     <div>
       <img
         class="h-70 pt-2"
-        src="images/memo02.png"
+        src="/memo02.png"
       />
     </div>
   </div>
@@ -218,21 +218,21 @@ clicks: 3
       <p class="text-base font-700">①.ラフで画面構成を作成</p>
       <img
         class="h-30"
-        src="images/create_01.png"
+        src="/create_01.png"
       />
     </div>
     <div v-click="1" class="absolute top-0 left-90 bottom-0 w-80">
       <p class="text-base font-700">②.Figmaで仮デザイン作成</p>
       <img
         class="h-30"
-        src="images/create_02.png"
+        src="/create_02.png"
       />
     </div>
     <div v-click="2" class="absolute top-50 left-0 bottom-0 w-80">
       <p class="text-base font-700">③.仮のデザインガイドラインを作成</p>
       <img
         class="h-30"
-        src="images/create_03.png"
+        src="/create_03.png"
       />
     </div>
     <div v-click="3" class="absolute top-65 left-115 bottom-0 w-80 h-25 border-3 border-gray-700 border-dotted rounded-lg">
@@ -259,14 +259,14 @@ clicks: 6
       <p class="text-base font-700">④.正式にデザインガイドラインを作成</p>
       <img
         class="h-60"
-        src="images/create_04.png"
+        src="/create_04.png"
       />
     </div>
     <div  v-click="1" class="absolute top-0 left-110 bottom-0 w-80">
       <p class="text-base font-700">⑤.StyleをFigmaに登録</p>
       <img
         class="h-60"
-        src="images/create_05.png"
+        src="/create_05.png"
       />
     </div>
     <div v-click="2" v-if="$slidev.nav.clicks == 2" class="absolute top-20 left-5 right-0 bottom-0 w-25 h-32 border-3 border-red-700"/>
@@ -274,7 +274,7 @@ clicks: 6
     <div v-click="4" class="absolute top-15 left-170 bottom-0 w-80">
       <img
         class="h-60"
-        src="images/create_06.png"
+        src="/create_06.png"
       />
     </div>
 
@@ -296,7 +296,7 @@ clicks: 6
 <div class="flex items-center w-full flex-col">
   <img
     class="w-180"
-    src="images/create_07.png"
+    src="/create_07.png"
   />
 </div> 
 ---
@@ -310,7 +310,7 @@ clicks: 6
 <div class="flex pl-20 w-full flex-col">
   <img
     class="w-140"
-    src="images/create_08.png"
+    src="/create_08.png"
   />
 </div> 
 
@@ -406,10 +406,10 @@ class: "text-center"
   <div class="main">
   <img
     class="w-60"
-    src="images/logo.svg"
+    src="/logo.svg"
   />
   </div>
-  <div class="pt-12">ご清聴ありがとうございました</div>
+  <div>ご清聴ありがとうございました</div>
 </div>
 
 
