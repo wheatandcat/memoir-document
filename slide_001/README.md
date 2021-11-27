@@ -1,5 +1,8 @@
 # 振り返りアプリを作ってみた話のスライド
 
+
+https://speakerdeck.com/wheatandcat/zhen-rifan-riapuriwozuo-tutemitahua
+
 ## 起動
 
 ```zsh

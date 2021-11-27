@@ -41,7 +41,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 <div class="flex pb-5">
   <div class="px-5">
-    <div class="rounded-full bg-white w-24 h-24 overflow-hidden border-2 border-black border-dotted border-opacity-20">
+    <div class="rounded-full bg-white w-30 h-30 overflow-hidden border-2 border-black border-dotted border-opacity-20">
       <img
         class="w-40 pt-2"
         src="/account.png"
@@ -52,17 +52,16 @@ The last comment block of each slide will be treated as slide notes. It will be 
     <h2>自己紹介</h2>
   </div>
 </div>
+<br />
 
 - 📝 飯野陽平（[wheatandcat](https://github.com/wheatandcat)）
-- 🎨 フリーランス
-- 🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
-- 🤹 **Interactive** - embedding Vue components to enhance your expressions
-- 🎥 **Recording** - built-in recording and camera view
-- 📤 **Portable** - export into PDF, PNGs, or even a hostable SPA
-- 🛠 **Hackable** - anything possible on a webpage
-
-<br>
-<br>
+- 🏢 フリーランスエンジニア（シェアフル株式会社CTO）
+- 💻 Blog: https://www.wheatandcat.me/
+- 📚 Booth: https://wheatandcat.booth.pm/
+- 🛠 今までに作ったもの
+  - [memoir](https://memoir-lp-mvbeacmwe-wheatandcat.vercel.app/)
+  - [ペペロミア](https://peperomia.app/)
+  - [Atomic Design Check List](https://atomic-design-checklist.vercel.app/)
 
 ---
 
@@ -187,7 +186,7 @@ clicks: 1
 
  - 振り返りの時に、今週の出来事を思い出せない
  - まとまった単位での振り返りをしたい時にテキスト情報のみだとピックアップしづらい
- - 良かった出来事のみピックアップしたいなど
+ - 良かった出来事のみピックアップしたい
  - 振り返りを開催する時間帯がズレる
 
 <br />
@@ -347,7 +346,7 @@ Zenn: **[memoirの開発ログ](https://zenn.dev/wheatandcat/scraps/78d2c5aa4c94
 実機でデモ
 </div>
 
- **[LPサイトは、こちら](https://zenn.dev/wheatandcat/scraps/78d2c5aa4c9435)** .
+ **[LPサイトは、こちら](https://memoir-lp-mvbeacmwe-wheatandcat.vercel.app/)** .
 
 <style>
 .title {
