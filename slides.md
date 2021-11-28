@@ -5,10 +5,9 @@ class: text-center
 highlighter: shiki
 lineNumbers: false
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
+  ## 振り返りアプリを作ってみた話
 
-  Learn more at [Sli.dev](https://sli.dev)
+  Learn more at [memoirの開発ログ](https://zenn.dev/wheatandcat/scraps/78d2c5aa4c9435)
 drawings:
   persist: false
 fonts:
