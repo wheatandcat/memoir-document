@@ -4,7 +4,7 @@
 ■ web
 https://vigilant-hamilton-f30a56.netlify.app/1
 
-■ Speakerdeck
+■ Speaker Deck
 https://speakerdeck.com/wheatandcat/zhen-rifan-riapuriwozuo-tutemitahua
 
 ## 起動
