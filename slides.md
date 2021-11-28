@@ -401,13 +401,6 @@ class: "text-center"
 ---
 
 <div class="text-2xl font-700 text-enter w-full">
-
-  <div class="main">
-  <img
-    class="w-60"
-    src="/logo.svg"
-  />
-  </div>
   <div>ご清聴ありがとうございました</div>
 </div>
 
